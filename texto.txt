@@ -1,1 +1,2 @@
-testando
+testando o git
+chave: SHA256:eN47aAnajGaL1O1+dMVqMUOzLQt12K4O1tn99SjkzGc
